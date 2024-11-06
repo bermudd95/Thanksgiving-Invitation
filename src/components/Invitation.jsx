@@ -1,5 +1,4 @@
 import React from "react";
-
 const Invitation = () => {
 	return (
 		<div className="min-h-screen flex items-center justify-center bg-background bg-cover bg-center px-4 sm:px-6 lg:px-8">

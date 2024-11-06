@@ -5,7 +5,7 @@ export default {
 		extend: {
 			backgroundImage: {
 				background:
-					"url('src/assets/Thanksgiving Background.jpg')",
+					"url('/Thanksgiving Background.jpg')",
 			},
 			colors: {
 				orange: {
